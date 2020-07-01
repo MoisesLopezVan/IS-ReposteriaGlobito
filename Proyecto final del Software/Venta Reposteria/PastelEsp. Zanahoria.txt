@@ -1,0 +1,8 @@
+Bienvenido a la reposteria ***** Pasteles Especiales ***** 
+------------------------------------
+Sabor elegido:  * Zanahoria * 
+------------------------------------
+Forma elegida:  * Rectangular *
+------------------------------------
+Tamaño elegido:  * Segundo Piso * 
+------------------------------------
